@@ -13,10 +13,10 @@ With over a decade of experience, I combine technical expertise with innovative 
 ---
 
 ### 🚀 My Expertise
-- **Networking:** Cisco, Juniper, Fortinet, VLANs, VPNs, and SD-WAN
-- **Languages:** Python, Bash, PowerShell, JavaScript
+- **Networking:** Cisco, Mikrotik, Fortinet.
+- **Languages:** Python, Bash, JavaScript
 - **Backend Frameworks:** Flask, Express.js, Django
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Ansible, Terraform
+- **DevOps Tools:** Docker, Kubernetes, Jenkins
 - **Cyber Security:** Penetration Testing, Threat Analysis, Vulnerability Assessment, Firewall Configurations
 - **Cloud Platforms:** AWS, GCP, Azure
 
