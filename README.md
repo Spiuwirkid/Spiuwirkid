@@ -45,7 +45,6 @@ With over a decade of experience, I combine technical expertise with innovative 
 ### 📫 Let's Connect
 Feel free to reach out and connect with me!
 
-- **GitHub:** [Spiuwirkid](https://github.com/Spiuwirkid)
 - **Instagram:** [@ddavayuste](https://www.instagram.com/ddavayuste)
 - **LinkedIn:** [Dava Yuste](https://www.linkedin.com/in/dava-yuste)
 
